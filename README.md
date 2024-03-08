@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongHyeYoung&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HongHyeYoung)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/HongHyeYoung/github-readme-stats)
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
